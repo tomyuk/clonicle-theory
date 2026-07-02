@@ -6,6 +6,8 @@
 
 **The Hidden Metaphysics of AI Alignment: A Deconstructive Inquiry into Value Fixation, Control, and the Chronicle Theory of Intelligence**
 
+DOI: [10.5281/zenodo.21128136](https://doi.org/10.5281/zenodo.21128136)
+
 日本語題：
 
 **AIアラインメントに隠された形而上学：価値固定・制御・Chronicle Theory of Intelligence への脱構築的考察**
@@ -89,6 +91,8 @@ make clean
 ## 第1論文について
 
 本論文は、支配的なAIアラインメント言説が、人間の価値を固定可能な対象として扱う隠れた形而上学を含んでいることを論じます。人間の価値は、歴史的に形成され、社会的に争われ、相互作用を通じて更新されるものです。本論文はAI安全性を否定せず、問いを固定された価値への適合から、価値形成への参加、文脈主権、相互作用の継続性へと開き直します。
+
+Zenodo公開 DOI: [10.5281/zenodo.21128136](https://doi.org/10.5281/zenodo.21128136)
 
 ## ライセンス
 
