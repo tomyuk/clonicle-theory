@@ -1,0 +1,50 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="900" viewBox="0 0 1200 900">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#166534"/>
+    </marker>
+  </defs>
+  <style>
+    .title { font: 700 28px Arial, Helvetica, sans-serif; fill: #111827; }
+    .box { fill: #f0fdf4; stroke: #166534; stroke-width: 2.3; }
+    .repair { fill: #f5f3ff; stroke: #6d28d9; stroke-width: 2.3; }
+    .label { font: 700 21px Arial, Helvetica, sans-serif; fill: #111827; }
+    .sub { font: 15px Arial, Helvetica, sans-serif; fill: #475569; }
+    .arrow { stroke: #166534; stroke-width: 2.7; fill: none; marker-end: url(#arrow); }
+    .return { stroke: #475569; stroke-width: 2.3; stroke-dasharray: 8 7; fill: none; marker-end: url(#arrow); }
+    .arrowlabel { font: 14px Arial, Helvetica, sans-serif; fill: #166534; }
+  </style>
+  <rect x="0" y="0" width="1200" height="900" fill="#ffffff"/>
+  <text x="600" y="50" text-anchor="middle" class="title">Chronicle Theory of Intelligence</text>
+
+  <rect x="365" y="95" width="470" height="82" rx="18" class="box"/>
+  <text x="600" y="126" text-anchor="middle" class="label">Context</text>
+  <text x="600" y="153" text-anchor="middle" class="sub">situated meaning, memory, relation, institution</text>
+
+  <path d="M600,177 L600,230" class="arrow"/>
+  <rect x="365" y="238" width="470" height="82" rx="18" class="box"/>
+  <text x="600" y="269" text-anchor="middle" class="label">Interaction</text>
+  <text x="600" y="296" text-anchor="middle" class="sub">response, misunderstanding, negotiation, repair</text>
+
+  <path d="M600,320 L600,373" class="arrow"/>
+  <rect x="365" y="381" width="470" height="82" rx="18" class="box"/>
+  <text x="600" y="412" text-anchor="middle" class="label">Resonance</text>
+  <text x="600" y="439" text-anchor="middle" class="sub">meaningful amplification or transformation</text>
+
+  <path d="M600,463 L600,516" class="arrow"/>
+  <rect x="365" y="524" width="470" height="82" rx="18" class="box"/>
+  <text x="600" y="555" text-anchor="middle" class="label">Deviation</text>
+  <text x="600" y="582" text-anchor="middle" class="sub">difference from expectation, error, signal, innovation</text>
+
+  <path d="M600,606 L600,659" class="arrow"/>
+  <rect x="365" y="667" width="470" height="82" rx="18" class="repair"/>
+  <text x="600" y="698" text-anchor="middle" class="label">Evaluation / Repair</text>
+  <text x="600" y="725" text-anchor="middle" class="sub">RDE, uncertainty handling, revision, accountability</text>
+
+  <path d="M600,749 L600,802" class="arrow"/>
+  <rect x="365" y="810" width="470" height="62" rx="18" class="box"/>
+  <text x="600" y="849" text-anchor="middle" class="label">Continuity → Renewed Context</text>
+
+  <path d="M835,840 C1060,780 1060,170 835,136" class="return"/>
+  <text x="1005" y="455" text-anchor="middle" class="sub" transform="rotate(90 1005 455)">recursive chronicle</text>
+</svg>
