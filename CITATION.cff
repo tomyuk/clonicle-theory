@@ -1,0 +1,22 @@
+cff-version: 1.2.0
+title: "The Hidden Metaphysics of AI Alignment: A Deconstructive Inquiry into Value Fixation, Control, and the Chronicle Theory of Intelligence"
+message: "If you use or cite this work, please cite it using the metadata from this file."
+type: article
+authors:
+  - family-names: Kano
+    given-names: Tomoyuki
+    orcid: "https://orcid.org/0009-0004-8213-4631"
+doi: 10.5281/zenodo.21128136
+url: "https://doi.org/10.5281/zenodo.21128136"
+repository-code: "https://github.com/tomyuk/clonicle-theory"
+keywords:
+  - AI Alignment
+  - AI Safety
+  - Value Fixation
+  - Chronicle Theory
+  - Context Sovereignty
+  - Interaction Continuity
+  - AI Governance
+  - Philosophy of Technology
+  - Deconstruction
+license: "CC-BY-NC-ND-4.0"
