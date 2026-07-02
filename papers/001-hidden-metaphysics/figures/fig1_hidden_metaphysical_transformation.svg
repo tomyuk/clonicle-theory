@@ -1,0 +1,47 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="760" viewBox="0 0 1200 760">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#334155"/>
+    </marker>
+  </defs>
+  <style>
+    .title { font: 700 28px Arial, Helvetica, sans-serif; fill: #111827; }
+    .box { fill: #f8fafc; stroke: #334155; stroke-width: 2; }
+    .risk { fill: #fff1f2; stroke: #9f1239; stroke-width: 2.5; }
+    .label { font: 700 20px Arial, Helvetica, sans-serif; fill: #111827; }
+    .sub { font: 15px Arial, Helvetica, sans-serif; fill: #475569; }
+    .arrow { stroke: #334155; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+    .arrowlabel { font: 14px Arial, Helvetica, sans-serif; fill: #334155; }
+  </style>
+  <rect x="0" y="0" width="1200" height="760" fill="#ffffff"/>
+  <text x="600" y="50" text-anchor="middle" class="title">The Hidden Metaphysical Transformation in AI Alignment</text>
+
+  <rect x="130" y="105" width="940" height="86" rx="18" class="box"/>
+  <text x="600" y="136" text-anchor="middle" class="label">Living Human Values</text>
+  <text x="600" y="162" text-anchor="middle" class="sub">historical, cultural, relational, contested, and evolving</text>
+
+  <path d="M600,191 L600,246" class="arrow"/>
+  <text x="620" y="225" class="arrowlabel">compression / representation</text>
+
+  <rect x="130" y="252" width="940" height="86" rx="18" class="box"/>
+  <text x="600" y="283" text-anchor="middle" class="label">Represented Values</text>
+  <text x="600" y="309" text-anchor="middle" class="sub">preferences, rules, reward models, constitutions, evaluation criteria</text>
+
+  <path d="M600,338 L600,393" class="arrow"/>
+  <text x="620" y="372" class="arrowlabel">operationalization</text>
+
+  <rect x="130" y="399" width="940" height="86" rx="18" class="box"/>
+  <text x="600" y="430" text-anchor="middle" class="label">Optimization Target</text>
+  <text x="600" y="456" text-anchor="middle" class="sub">object used for optimization, constraint, ranking, or refusal</text>
+
+  <path d="M600,485 L600,540" class="arrow"/>
+  <text x="620" y="519" class="arrowlabel">institutional deployment</text>
+
+  <rect x="130" y="546" width="940" height="86" rx="18" class="box"/>
+  <text x="600" y="577" text-anchor="middle" class="label">Governance / Control Layer</text>
+  <text x="600" y="603" text-anchor="middle" class="sub">corporate, state, expert, or platform-mediated implementation</text>
+
+  <path d="M600,632 L600,674" class="arrow"/>
+  <rect x="130" y="682" width="940" height="56" rx="18" class="risk"/>
+  <text x="600" y="717" text-anchor="middle" class="label">Epistemic Closure Risk</text>
+</svg>
