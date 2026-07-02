@@ -6,6 +6,8 @@ The initial paper is:
 
 **The Hidden Metaphysics of AI Alignment: A Deconstructive Inquiry into Value Fixation, Control, and the Chronicle Theory of Intelligence**
 
+DOI: [10.5281/zenodo.21128136](https://doi.org/10.5281/zenodo.21128136)
+
 Japanese title:
 
 **AIアラインメントに隠された形而上学：価値固定・制御・Chronicle Theory of Intelligence への脱構築的考察**
@@ -89,6 +91,8 @@ make clean
 ## Paper 001: Hidden Metaphysics of AI Alignment
 
 This paper argues that dominant AI alignment discourse often presupposes a hidden metaphysics of value fixation: living, historically contested, and evolving human values are compressed into operational targets for technical systems. The paper does not reject AI safety. It reframes the initial question from value compliance toward participation in value formation, context sovereignty, and interaction continuity.
+
+Published on Zenodo: [10.5281/zenodo.21128136](https://doi.org/10.5281/zenodo.21128136)
 
 ## License
 
