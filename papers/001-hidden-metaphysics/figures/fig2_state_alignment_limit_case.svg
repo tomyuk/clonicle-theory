@@ -1,0 +1,49 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1200" height="780" viewBox="0 0 1200 780">
+  <defs>
+    <marker id="arrow" markerWidth="12" markerHeight="12" refX="10" refY="6" orient="auto" markerUnits="strokeWidth">
+      <path d="M2,2 L10,6 L2,10 Z" fill="#7f1d1d"/>
+    </marker>
+  </defs>
+  <style>
+    .title { font: 700 28px Arial, Helvetica, sans-serif; fill: #111827; }
+    .box { fill: #fff7ed; stroke: #9a3412; stroke-width: 2; }
+    .risk { fill: #fef2f2; stroke: #991b1b; stroke-width: 2.5; }
+    .question { fill: #f8fafc; stroke: #334155; stroke-width: 2.5; }
+    .label { font: 700 20px Arial, Helvetica, sans-serif; fill: #111827; }
+    .sub { font: 15px Arial, Helvetica, sans-serif; fill: #475569; }
+    .arrow { stroke: #7f1d1d; stroke-width: 2.5; fill: none; marker-end: url(#arrow); }
+    .arrowlabel { font: 14px Arial, Helvetica, sans-serif; fill: #7f1d1d; }
+  </style>
+  <rect x="0" y="0" width="1200" height="780" fill="#ffffff"/>
+  <text x="600" y="50" text-anchor="middle" class="title">State Alignment as a Limit Case</text>
+
+  <rect x="130" y="105" width="940" height="88" rx="18" class="box"/>
+  <text x="600" y="136" text-anchor="middle" class="label">State-defined Security Value</text>
+  <text x="600" y="163" text-anchor="middle" class="sub">security, order, national interest, defense, social stability</text>
+
+  <path d="M600,193 L600,246" class="arrow"/>
+  <text x="620" y="225" class="arrowlabel">alignment to politically defined objective</text>
+
+  <rect x="130" y="252" width="940" height="88" rx="18" class="box"/>
+  <text x="600" y="283" text-anchor="middle" class="label">AI Alignment to State Objective</text>
+  <text x="600" y="310" text-anchor="middle" class="sub">the AI system conforms to an institutional security goal</text>
+
+  <path d="M600,340 L600,393" class="arrow"/>
+  <text x="620" y="372" class="arrowlabel">classification and scoring</text>
+
+  <rect x="130" y="399" width="940" height="88" rx="18" class="risk"/>
+  <text x="600" y="430" text-anchor="middle" class="label">Classification of Persons as Risks</text>
+  <text x="600" y="457" text-anchor="middle" class="sub">persons become targets, threat profiles, or risk scores</text>
+
+  <path d="M600,487 L600,540" class="arrow"/>
+  <text x="620" y="519" class="arrowlabel">optimization of risk reduction</text>
+
+  <rect x="130" y="546" width="940" height="88" rx="18" class="risk"/>
+  <text x="600" y="577" text-anchor="middle" class="label">Surveillance / Exclusion / Targeting</text>
+  <text x="600" y="604" text-anchor="middle" class="sub">monitoring, denial, detention, exclusion, or lethal targeting</text>
+
+  <path d="M600,634 L600,682" class="arrow"/>
+  <rect x="130" y="690" width="940" height="64" rx="18" class="question"/>
+  <text x="600" y="717" text-anchor="middle" class="label">Question</text>
+  <text x="600" y="743" text-anchor="middle" class="sub">Is this alignment, or obedience to institutional power?</text>
+</svg>
