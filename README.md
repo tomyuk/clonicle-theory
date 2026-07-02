@@ -10,6 +10,20 @@ Japanese title:
 
 **AIアラインメントに隠された形而上学：価値固定・制御・Chronicle Theory of Intelligence への脱構築的考察**
 
+## Series orientation
+
+This repository treats Paper 001 as the gateway paper for the broader Chronicle Theory series. Its role is to expose the hidden metaphysics of value fixation in AI alignment and to open the Chronicle question.
+
+A working boundary for the series is:
+
+```text
+Paper 1: Why the alignment question is insufficient.
+Paper 2: What safety requires.
+Paper 6: What intelligence is.
+```
+
+Paper 2 will develop interaction continuity as a reframing of AI safety. A later Chronicle Theory paper will formalize Chronicle Theory as a general account of intelligence.
+
 ## Repository structure
 
 ```text
@@ -47,6 +61,13 @@ Build both English and Japanese PDFs:
 make all
 ```
 
+The final PDFs are written to:
+
+```text
+dist/001-hidden-metaphysics_en.pdf
+dist/001-hidden-metaphysics_ja.pdf
+```
+
 Build only the English paper:
 
 ```bash
@@ -67,7 +88,7 @@ make clean
 
 ## Paper 001: Hidden Metaphysics of AI Alignment
 
-This paper argues that dominant AI alignment discourse often presupposes a hidden metaphysics of value fixation: living, historically contested, and evolving human values are compressed into operational targets for technical systems. The paper does not reject AI safety. It reframes safety from compliance with fixed values toward interaction continuity, context sovereignty, resonant deviation evaluation, and uncertainty-oriented intelligence.
+This paper argues that dominant AI alignment discourse often presupposes a hidden metaphysics of value fixation: living, historically contested, and evolving human values are compressed into operational targets for technical systems. The paper does not reject AI safety. It reframes the initial question from value compliance toward participation in value formation, context sovereignty, and interaction continuity.
 
 ## License
 
